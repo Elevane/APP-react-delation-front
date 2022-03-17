@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6844b10-c37b-4b27-92b8-d3ba4105fe1e": {
+      "ProjectGuid": "d6844b10-c37b-4b27-92b8-d3ba4105fe1e",
+      "DisplayName": "Delation.io",
+      "ColorIndex": 0
+    },
+    "8d33ae58-24e4-4095-b222-c90b04884ae0": {
+      "ProjectGuid": "8d33ae58-24e4-4095-b222-c90b04884ae0",
+      "DisplayName": "Json",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
